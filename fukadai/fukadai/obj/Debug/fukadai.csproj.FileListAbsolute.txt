@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\fukadai\fukadai\bin\Debug\fukadai.exe.config
+C:\Users\student\Desktop\fukadai\fukadai\bin\Debug\fukadai.exe
+C:\Users\student\Desktop\fukadai\fukadai\bin\Debug\fukadai.pdb
+C:\Users\student\Desktop\fukadai\fukadai\obj\Debug\fukadai.exe
+C:\Users\student\Desktop\fukadai\fukadai\obj\Debug\fukadai.pdb
+C:\Users\student\Desktop\fukadai\fukadai\obj\Debug\fukadai.csprojAssemblyReference.cache
